@@ -1,4 +1,3 @@
-data/raw/
 data/external/
 __pycache__/
 .env
@@ -7,3 +6,5 @@ venv/
 .ipynb_checkpoints/
 .DS_Store
 Thumbs.db
+*.xlsx
+*.xls
